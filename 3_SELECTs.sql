@@ -1,4 +1,4 @@
--- SQL file has been written forDer TabellenDoktor (www.tabellendoktor.de)
+-- SQL file has been written for Der TabellenDoktor (www.tabellendoktor.de)
 -- Please feel free to use the SQL examples but keep the link to the website included. Thank you!
 
 -- How often is each product ordered?

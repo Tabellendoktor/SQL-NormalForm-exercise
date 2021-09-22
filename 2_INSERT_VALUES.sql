@@ -1,4 +1,4 @@
--- SQL file has been written forDer TabellenDoktor (www.tabellendoktor.de)
+-- SQL file has been written for Der TabellenDoktor (www.tabellendoktor.de)
 -- Please feel free to use the SQL examples but keep the link to the website included. Thank you!
 
 -- Insert data in the right order to be able to fulfill the foreign key requirements

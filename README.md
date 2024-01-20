@@ -17,7 +17,7 @@ More about me (in German): https://www.digitalisierungsarchitekt.de
 
 ## Contact
 
-Contact me via my website [team@tabellendoktor.de](https://www.digitalisierungsarchitekt.de)
+Contact me via my website [digitalisierungsarchitekt.de](https://www.digitalisierungsarchitekt.de)
 
 # Content of the files
 
